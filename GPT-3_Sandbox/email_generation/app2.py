@@ -37,7 +37,7 @@ def app():
 
         st.write(f"""---""")
 
-        st.image("./ai.png", use_column_width=True)
+        #st.image("./ai.png", use_column_width=True)
 
         input = st.text_input('Input:')
 
